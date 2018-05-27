@@ -1,0 +1,19 @@
+.content {
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+  font-family: sans-serif;
+  margin: 50px auto;
+}
+
+h2 {
+  margin-top: 50px;
+  color: gray;
+}
+
+h3 {
+  color: gray;
+}
