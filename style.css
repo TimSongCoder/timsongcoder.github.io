@@ -18,3 +18,15 @@ h2 {
 h3 {
   color: gray;
 }
+
+p {
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.5em;
+}
+
+p span {
+  font-size: 1.5em;
+  font-weight: 200;
+  color: #666666;
+}
