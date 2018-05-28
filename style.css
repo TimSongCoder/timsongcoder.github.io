@@ -5,9 +5,19 @@
     padding-bottom: 30px;
 }
 
+h1, h2, h3 {
+    font-family: monospace;
+}
+
 h1 {
-  font-family: sans-serif;
-  margin: 50px auto;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-weight: lighter;
+}
+
+h1 span {
+  /* color: rgb(238, 71, 49); */
+  font-weight: bold;
 }
 
 h2 {
